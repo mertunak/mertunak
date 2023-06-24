@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey👋, What's up?</h1>
 
 ###
 
-<p align="left">My name is Mert and I am a sophomore computer engineering student at Yildiz Technical University.</p>
+<p align="left">My name is Mert and I am a junior computer engineering student at Yildiz Technical University.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Flutter and Dart.<br>🎯 I want to be a full stack mobile developer.</p>
+<p align="left">📚 I'm currently learning Flutter, Kotlin and GoLang.<br>🎯 I am trying to be a full stack mobile developer.</p>
 
 </br>
 
@@ -54,10 +54,12 @@
 
 ###
 
-<div align="center">
-  <img href = "https://github.com/mertunak" src = "https://github-readme-stats.vercel.app/api?username=mertunak&hide=prs,issues&count_private=true&theme=github_dark" height = "140">
-  </br></br>
-  <img href = "https://github.com/mertunak" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mertunak&show_icons=true&theme=dark" height = "160">
+<div align="center" >
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api?username=mertunak&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertunak&theme=nightowl&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertunak&theme=nightowl)
+
 </div>
 
 ###
