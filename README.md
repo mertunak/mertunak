@@ -57,7 +57,11 @@
 <div align="center" >
  
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=mertunak&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
+</br>
+</br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertunak&theme=nightowl&hide_border=true) 
+</br>
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertunak&theme=nightowl)
 
 </div>
